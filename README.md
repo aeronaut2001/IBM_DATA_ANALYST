@@ -33,3 +33,13 @@ This course is designed to provide you with basic working knowledge for using Ex
 
 <p align="center">
 <img src="/CERTIFICATE/2.png" width=60% height=60%>
+
+- [x] [__Excel Basics for Data Analysis__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/3.png)
+
+This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. .
+
+<p align="center">
+<img src="/CERTIFICATE/3.png" width=60% height=60%>
+
+
+
