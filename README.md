@@ -73,7 +73,7 @@ The purpose of this course is to introduce relational database concepts and help
 <p align="center">
 <img src="/CERTIFICATE/6.png" width=60% height=60%>
 
-- [x] [__Data Analysis with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analysis%20With%20Python)
+- [x] [__Data Analysis with Python__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/7.png)
 
 Learn how to analyze data using Python. Topics covered:
 
@@ -85,7 +85,7 @@ Learn how to analyze data using Python. Topics covered:
 6) Building data pipelines
 
 <p align="center">
-<img src="/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
+<img src="/CERTIFICATE/7.png" width=60% height=60%>
 
 - [x] [__Data Visualization with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20with%20Python)
 
