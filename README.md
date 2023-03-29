@@ -14,18 +14,21 @@ Power your data analyst career by learning the core principles of data analysis 
 
 ## 🥇 Professional Certificate
 
-- [x] [__Introduction to Data Analytics__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/final.png)
+- [x] [__IBM Data Analyst__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/final.png)
 
 This IBM Professional Certificate is earned after successfully completing 9 courses on various topics in Data Analytics. The learner understands the core principles of data analysis and has worked hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Relational Databases, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation, data analysis, and data visualization. The earner of this Certificate has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-level role in data analytics.
 
 <p align="center">
 <img src="/CERTIFICATE/final.png" width=60% height=60%>
----
+
+ 
+ 
 
 ## 📙 Course Structures
 
 
 
+ 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 - [x] [__Introduction to Data Analytics__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/1.png)
 
@@ -33,6 +36,8 @@ This course presents a gentle introduction into the concepts of data analysis, t
 
 <p align="center">
 <img src="/CERTIFICATE/1.png" width=60% height=60%>
+ 
+ 
 
 - [x] [__Excel Basics for Data Analysis__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/2.png)
 
@@ -41,15 +46,8 @@ This course is designed to provide you with basic working knowledge for using Ex
 <p align="center">
 <img src="/CERTIFICATE/2.png" width=60% height=60%>
 
-
-
-
-
-
-
-
-
-
+ 
+ 
 
 - [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/3.png)
 
@@ -58,12 +56,16 @@ This course covers some of the first steps in the development of data visualizat
 <p align="center">
 <img src="/CERTIFICATE/3.png" width=60% height=60%>
 
+ 
+ 
 - [x] [__Python for Data Science,AI And Development__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/4.png)
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 <p align="center">
 <img src="/CERTIFICATE/4.png" width=60% height=60%>
+ 
+ 
 
 - [X] [__Python Project for Data Science__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/5.png)
 
@@ -72,6 +74,8 @@ This mini-course is intended to for you to demonstrate foundational Python skill
 <p align="center">
 <img src="/CERTIFICATE/5.png" width=60% height=60%>
 
+ 
+ 
 - [x] [__Databases and SQL for Data Science__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/6.png)
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
@@ -79,6 +83,8 @@ The purpose of this course is to introduce relational database concepts and help
 <p align="center">
 <img src="/CERTIFICATE/6.png" width=60% height=60%>
 
+ 
+ 
 - [x] [__Data Analysis with Python__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/7.png)
 
 Learn how to analyze data using Python. Topics covered:
@@ -92,6 +98,8 @@ Learn how to analyze data using Python. Topics covered:
 
 <p align="center">
 <img src="/CERTIFICATE/7.png" width=60% height=60%>
+ 
+ 
 
 - [x] [__Data Visualization with Python__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/8.png)
 
@@ -99,6 +107,8 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 <p align="center">
 <img src="/CERTIFICATE/8.png" width=60% height=60%>
+ 
+ 
 
 - [x] [__IBM Data Analyst Capstone Project__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/9.png)
 
@@ -106,6 +116,8 @@ In this course you will apply various Data Analytics skills and techniques that 
 
 <p align="center">
 <img src="/CERTIFICATE/9.png" width=60% height=60%>
+ 
+ 
 
 ---
 <p>&copy; 2021 Leah Nguyen</p>
