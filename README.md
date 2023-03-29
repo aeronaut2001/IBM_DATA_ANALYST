@@ -50,7 +50,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
-<img src="/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=60% height=60%>
+<img src="/CERTIFICATE/3.png" width=60% height=60%>
 
 - [x] [__Python for Data Science and AI__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
