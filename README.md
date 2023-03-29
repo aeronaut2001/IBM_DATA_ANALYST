@@ -25,7 +25,7 @@ This IBM Professional Certificate is earned after successfully completing 9 cour
  
  
 
-## 📙 Course Structures
+## 📙 Course Structures :
 
 
 
