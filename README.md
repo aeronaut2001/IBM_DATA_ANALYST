@@ -31,7 +31,7 @@ This IBM Professional Certificate is earned after successfully completing 9 cour
 
  
 There are 9 Courses in this Professional Certificate Specialization are as follows:
-- [x] [__Introduction to Data Analytics__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/1.png)
+- [x] [__Introduction to Data Analytics__](https://github.com/aeronaut2001/IBM_DATA_ANALYST/blob/main/CERTIFICATE/1.jpg)
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
